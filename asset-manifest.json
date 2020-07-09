@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Hudsonprem/mapworld/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Hudsonprem/mapworld/static/js/main.adac9778.chunk.js",
-    "main.js.map": "/Hudsonprem/mapworld/static/js/main.adac9778.chunk.js.map",
-    "runtime-main.js": "/Hudsonprem/mapworld/static/js/runtime-main.c14ba5e6.js",
-    "runtime-main.js.map": "/Hudsonprem/mapworld/static/js/runtime-main.c14ba5e6.js.map",
-    "static/js/2.2b57b62f.chunk.js": "/Hudsonprem/mapworld/static/js/2.2b57b62f.chunk.js",
-    "static/js/2.2b57b62f.chunk.js.map": "/Hudsonprem/mapworld/static/js/2.2b57b62f.chunk.js.map",
-    "index.html": "/Hudsonprem/mapworld/index.html",
-    "precache-manifest.ac806391115a5df214670b25aeeedea3.js": "/Hudsonprem/mapworld/precache-manifest.ac806391115a5df214670b25aeeedea3.js",
-    "service-worker.js": "/Hudsonprem/mapworld/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Hudsonprem/mapworld/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2b57b62f.chunk.js.LICENSE.txt": "/Hudsonprem/mapworld/static/js/2.2b57b62f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Hudsonprem/mapworld/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mapworld/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mapworld/static/js/main.4d70cde7.chunk.js",
+    "main.js.map": "/mapworld/static/js/main.4d70cde7.chunk.js.map",
+    "runtime-main.js": "/mapworld/static/js/runtime-main.decdfca9.js",
+    "runtime-main.js.map": "/mapworld/static/js/runtime-main.decdfca9.js.map",
+    "static/js/2.2b57b62f.chunk.js": "/mapworld/static/js/2.2b57b62f.chunk.js",
+    "static/js/2.2b57b62f.chunk.js.map": "/mapworld/static/js/2.2b57b62f.chunk.js.map",
+    "index.html": "/mapworld/index.html",
+    "precache-manifest.7cfcbe26285fd62ff53f8169832cd2ab.js": "/mapworld/precache-manifest.7cfcbe26285fd62ff53f8169832cd2ab.js",
+    "service-worker.js": "/mapworld/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mapworld/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2b57b62f.chunk.js.LICENSE.txt": "/mapworld/static/js/2.2b57b62f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mapworld/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c14ba5e6.js",
+    "static/js/runtime-main.decdfca9.js",
     "static/js/2.2b57b62f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.adac9778.chunk.js"
+    "static/js/main.4d70cde7.chunk.js"
   ]
 }
